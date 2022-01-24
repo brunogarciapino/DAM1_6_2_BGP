@@ -106,7 +106,7 @@ class Casa(
     }
 }
 
-//Se crea una clase Casa que es de tipo dispara, es decir que usa la interfaz dispara
+//Se crea una clase Bocadillo que es de tipo dispara, es decir que usa la interfaz dispara
 class Bocadillo(
     var tipo: String,
     var ingredientes: String,
@@ -120,7 +120,7 @@ class Bocadillo(
     }
 }
 
-//Se crea una clase Casa que es de tipo dispara, es decir que usa la interfaz dispara
+//Se crea una clase coche que es de tipo dispara, es decir que usa la interfaz dispara
 class coche(
     var marca: String,
     var caballos: Int,
